@@ -1,2 +1,2 @@
-worker: node . --autoread
+worker: node index.js
  
